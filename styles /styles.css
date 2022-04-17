@@ -1,3 +1,10 @@
+
+.body {
+		font-family: "Montserrat",sans-serif;
+}
+.main {
+	display: flex ;
+}
 .project-title {
 	font-size: 45px;
 	background-color: blue;
@@ -13,7 +20,4 @@
 }
 .education {
 
-}
-.body {
-	font-family: "Montserrat",sans-serif;
 }
