@@ -2,29 +2,38 @@
 .body {
 		font-family: "Montserrat",sans-serif;
 }
+/* main styles */
 .main {
 	display: flex ;
 	flex-direction: row-reverse;
+	background-color: #f5f7fa;
 }
+.main-content {
+	background-color: #fff;
+}
+/* project style */
 .project-title {
 	font-size: 45px;
-	background-color: blue;
+	color : blue;
 }
+/* about style */
 .about {
-	font-size: large;
+	background-color: yellow ;
 }
 .projects {
-	font-size: large;
+	background-color: chocolate ;
+	margin-top: 100px ;
+	margin-bottom: 300px ;
+	margin-left: 60px ;
+	margin-right: 90px ;
 }
 .work {
-
+background-color: cyan ;
+padding: 100px 40px 50px 20px ;
 }
 .education {
-
+background-color: darkblue ;
 }
 .sidebar {
 
-}
-.main-content {
-	
 }
